@@ -8,6 +8,6 @@
 
 - Tries to minimize the number of ambulances while trying to save everyone
 
-- To uses connectivity algorithms, A-star, 2-opt and Nearest neighbors to produce a solution.
+- To find a solution it uses connectivity algorithms, A-star, 2-opt and Nearest neighbors.
 
-- A graph visualization with the several paths from the ambulances is shown in the end.
+- A graph visualization solution with the several paths from the ambulances is shown in the end.
